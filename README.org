@@ -1,0 +1,10 @@
+* basic-binary-ipc
+
+The BASIC-BINARY-IPC system provides an interface for performing inter process communication using IPv4 or local streams. The interface follows a non-blocking pattern which allows applications to communicate either synchronously or asynchronously.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/markcox80/basic-binary-ipc.git   |
+| commit  | 161f781  |
+| systems | basic-binary-ipc |
+|---------+-------------------------------------------|
+
